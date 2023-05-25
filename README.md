@@ -1,7 +1,3 @@
-<div align=center>
-  <img src='./pictures/Logo-Acca-2020.png' alt='acca-logo'>
-</div>
-
 # Selective Logging Detection with Deep Learning and very high resolution images
 
 <hr><br>
